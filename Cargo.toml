@@ -1,5 +1,5 @@
 [package]
-name = "player"
+name = "rplayer"
 version = "0.1.0"
 authors = ["goganoid"]
 edition = "2018"
