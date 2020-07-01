@@ -33,6 +33,7 @@ impl FileManager{
         }
         else {
             println!("\rDirectory is empty");
+            println!("\rChoose directory with mp3 files");
             Err(())
         }
 
