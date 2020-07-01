@@ -1,4 +1,4 @@
-use player::App;
+use rplayer::App;
 use std::path::PathBuf;
 
 fn help(){
